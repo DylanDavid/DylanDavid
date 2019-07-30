@@ -1,0 +1,14 @@
+header img{
+    height:15vh;
+    padding-left:10px;
+}
+
+.main-content{
+    background-color:#f2f2f2;
+    height:100vh;
+}
+
+.latest-text{
+    font-size:1.2rem;
+    padding-left:10px;
+}
